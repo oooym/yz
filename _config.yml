@@ -1,0 +1,6 @@
+﻿permalink: /:year/:month/:title/
+url: http://oooym.com/yz
+author: 小叶子
+markdown: rdiscount
+pygments: true
+
